@@ -1,0 +1,152 @@
+/*applying arial font type all through the website*/
+*{
+	font-family: arial;
+}
+
+/*formatting the body section*/
+body {
+	background-image: url('hss.jfif');
+	background-attachment: fixed;
+	}
+	
+/*styling the footer*/
+.footer {
+	background-image: url('thumb2-lake-antorno-4k-autumn-dolomites-mountains.jpg');
+	align-content: center;
+	padding: 40px;
+	text-align: center;
+	color: white;
+	font-weight: 900;
+
+		}
+
+
+
+/*styling the top navigation*/
+.topnav {
+	text-align: center;
+	font-size: x-large;
+	text-decoration: none;
+	font-weight: 900;
+	background-color: darkslategray;
+	padding: 10px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding-right: 5px;
+	
+
+		}
+
+/*top navigation elements*/
+.topnav a {
+		color: ghostwhite;
+		padding: 15px;
+
+
+		}
+
+
+/*adding a hover on the top navigation text*/
+.topnav a:hover {
+	background-color: #darkgoldenrod;
+		color: blue;
+				}
+
+/*placing a video far right*/
+.vwvideo {
+	padding: 2% 75%;
+		}
+
+/*placing a video far right*/		
+.benzvideo {
+	padding: 2% 65%;
+			}
+
+/*placing a video far right*/			
+.fordvi {
+	padding: 2% 50%;
+		}
+
+/*styling on the h5 texts*/
+h5 {
+	text-align: center;
+	font-size: xx-large;
+	color: white;
+	}
+
+/*center alignment of the music content*/	
+.music {
+	padding: 2% 40%;
+		}
+
+.select {
+	padding: 2% 40%;
+		}	
+
+/*center alignment of the subsribe button*/
+#button2 {
+	padding: 2% 40%;
+		}
+
+/*aligning the submit button*/
+.button1 {
+	padding: 2% 10%;
+	
+		}
+
+.animation {
+	padding: 2% 40%;
+	background-color: black;
+	font-size: xx-large;
+			}
+
+/*increasing the space between the words in the fag class within the footer*/
+.faq a {
+	padding: 20px;
+	font-weight: 600;
+		}
+
+.resume {
+	color: white;
+	text-align: center;
+
+		}
+
+.matla {
+	color: ghostwhite;
+		}
+
+/*creating a hover on the faq class within the footer*/
+.faq a:hover {
+	background-color: yellow;
+			}
+
+/*creating a box on the info class*/
+.info {
+	border: 2px solid;
+	padding: 10px;
+	box-shadow: 5px 20px #888888;
+	background-image: url('RT.jfif');
+
+	}
+
+/*aligning the info class content close to the center of the page*/
+.info li {
+	padding:1% 35%; 
+		}
+
+/*creating a bov with different colors on the mybackground class*/
+.mybackground {
+	border: 5px solid;
+	padding: 10px;
+	border-top-color: blue;
+	border-bottom-color:yellowgreen ;
+	border-right-color:white ;
+	border-right-color:grey ;
+			}
+
+/*applying a hover on the mybackgound class*/
+.mybackground :hover {
+		background-color: white;
+					}
